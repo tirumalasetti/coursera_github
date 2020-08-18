@@ -1,1 +1,0 @@
-speakgoodbye.js
